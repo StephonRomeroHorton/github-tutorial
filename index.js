@@ -1,2 +1,2 @@
 console.log('i love git bash');
-console.log('i love git bash alot');
+console.log('i hate git bash alot');
